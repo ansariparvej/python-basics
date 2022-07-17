@@ -1,0 +1,25 @@
+INFO:root:info log included.
+WARNING:root:warning log included.
+ERROR:root:error log included.
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 8, 9]
+WARNING:root:found your required number.
+INFO:root:info log included.
+WARNING:root:warning log included.
+ERROR:root:error log included.
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 8, 9]
+WARNING:root:found your required number.
+INFO:root:info log included.
+WARNING:root:warning log included.
+ERROR:root:error log included.
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 8, 9]
+WARNING:root:found your required number.
+INFO:root:info log included.
+WARNING:root:warning log included.
+ERROR:root:error log included.
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 8, 9]
+WARNING:root:found your required number.
+INFO:root:info log included.
+WARNING:root:warning log included.
+ERROR:root:error log included.
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 8, 9]
+WARNING:root:found your required number.

@@ -1,0 +1,36 @@
+INFO, 2022-06-29 22:04:56,072, root, info log included with timestamp.
+INFO, 2022-06-29 22:04:56,073, root, The number entered by user is 5 and 2
+INFO, 2022-06-29 22:04:56,073, root, we are into function.
+INFO, 2022-06-29 22:04:56,073, root, division operation is completed.
+INFO, 2022-06-29 22:05:13,739, root, info log included with timestamp.
+INFO, 2022-06-29 22:05:13,740, root, The number entered by user is 5 and 0
+INFO, 2022-06-29 22:05:13,740, root, we are into function.
+ERROR, 2022-06-29 22:05:13,740, root, division by zero
+Traceback (most recent call last):
+  File "/home/ali/Documents/Pycharm Projects/fsds/test3.py", line 9, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO, 2022-06-29 22:10:19,470, root, info log included with timestamp.
+INFO, 2022-06-29 22:10:19,471, root, The number entered by user is 5 and 0
+INFO, 2022-06-29 22:10:19,471, root, we are into function.
+ERROR, 2022-06-29 22:10:19,471, root, division by zero
+Traceback (most recent call last):
+  File "/home/ali/Documents/Pycharm Projects/fsds/test3.py", line 9, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO, 2022-06-29 22:12:30,998, root, info log included with timestamp.
+INFO, 2022-06-29 22:12:30,999, root, The number entered by user is 5 and 0
+INFO, 2022-06-29 22:12:30,999, root, we are into function.
+ERROR, 2022-06-29 22:12:30,999, root, division by zero
+Traceback (most recent call last):
+  File "/home/ali/Documents/Pycharm Projects/fsds/test3.py", line 9, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+ERROR, 2022-06-29 22:12:58,405, root, division by zero
+Traceback (most recent call last):
+  File "/home/ali/Documents/Pycharm Projects/fsds/test3.py", line 9, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO, 2022-06-29 22:24:02,225, root, Trying to read a file.
+CRITICAL, 2022-06-29 22:24:02,225, root, could not read the file.
+ERROR, 2022-06-29 22:24:02,225, root, [Errno 2] No such file or directory: 'pma.txt'

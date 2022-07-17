@@ -1,0 +1,8 @@
+INFO, 2022-07-02 13:09:14,931, root, Trying to read a file.
+CRITICAL, 2022-07-02 13:09:14,932, root, could not read the file.
+ERROR, 2022-07-02 13:09:14,932, root, [Errno 2] No such file or directory: 'pma.txt'
+ERROR, 2022-07-02 13:09:14,932, root, [Errno 2] No such file or directory: 'pma.txt'
+Traceback (most recent call last):
+  File "/home/ali/anaconda3/Code-Playground/Pycharm Projects/logging and Debugging/test4.py", line 8, in <module>
+    with open("pma.txt", 'r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'pma.txt'
